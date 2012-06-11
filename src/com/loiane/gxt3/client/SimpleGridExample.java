@@ -15,7 +15,7 @@ public class SimpleGridExample implements EntryPoint {
 		ContentPanel root = new ContentPanel();
 		
 		root.setHeadingText("Simple Grid");
-	    root.setPixelSize(600, 300);
+	    root.setPixelSize(550, 250);
 	    root.addStyleName("margin-10");
 		
 	    Resizable r = new Resizable(root, Dir.E, Dir.SE, Dir.S);
